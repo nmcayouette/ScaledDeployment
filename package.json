@@ -1,0 +1,22 @@
+{
+  "name": "scaleddeployment",
+  "version": "1.0.0",
+  "description": "DWA Week 3: Node.js and Express app to demonstrate microservices research",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmcayouette/ScaledDeployment.git"
+  },
+  "author": "Nicole Cayouette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmcayouette/ScaledDeployment/issues"
+  },
+  "homepage": "https://github.com/nmcayouette/ScaledDeployment#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
